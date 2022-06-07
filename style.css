@@ -4,3 +4,10 @@ body{
     background-size:cover;
     color:white;
 }
+
+#camera1 , #result
+{
+  border: 2px dashed white;
+  width: 280px;
+  height: 280px; 
+}
